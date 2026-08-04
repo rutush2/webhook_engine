@@ -21,7 +21,7 @@ A resilient, event-driven Webhook Engine implementing the **Transactional Outbox
 ## 🏗️ Project Architecture
 
 
-```
+```text
 
 webhook_engine/
 │
